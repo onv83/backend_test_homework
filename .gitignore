@@ -12,7 +12,7 @@ build/side.txt
 /.idea
 
 # игнорировать вирт окружение
-/venv
+#/venv
 
 # игнорить first
 /first
