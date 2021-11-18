@@ -16,3 +16,6 @@ build/side.txt
 
 # игнорить first
 /first
+
+# игнорить venvpycharm
+/venvpycharm
