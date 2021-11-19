@@ -14,8 +14,8 @@ build/side.txt
 # игнорировать вирт окружение
 /venv
 
-# игнорить first
-/first
+# игнорить 01_Sprint
+# /01_Sprint
 
 # игнорить venvpycharm
 /venvpycharm
