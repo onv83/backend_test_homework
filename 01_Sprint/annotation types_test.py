@@ -1,4 +1,4 @@
-from typing import Sequence,Set, Union
+from typing import Sequence, Set, Union
 
 var_sequence: Sequence[float] = [1.2, 2, 3]
 # и принимает множество
